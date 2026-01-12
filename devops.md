@@ -1,4 +1,4 @@
-# DevOps – Complete Notes (Markdown)
+# DevOps – Complete Notes
 
 ## 1. Introduction to DevOps
 
