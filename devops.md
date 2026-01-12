@@ -4,7 +4,7 @@
 
 DevOps is a set of **practices, tools, and culture** that combines **Development (Dev)** and **Operations (Ops)** to deliver software faster, reliably, and efficiently.
 
-### Definition
+### Definition 
   
 DevOps is an approach that improves collaboration between development and operations teams by automating the software delivery lifecycle.
 
