@@ -8,7 +8,7 @@ DevOps is a set of **practices, tools, and culture** that combines **Development
      
 DevOps is an approach that improves collaboration between development and operations teams by automating the software delivery lifecycle.
 
-### Objectives of DevOps
+### Objectives of DevOps 
 
 * Faster software delivery
 * Continuous integration and deployment
