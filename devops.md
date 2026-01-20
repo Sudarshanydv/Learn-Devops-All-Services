@@ -10,7 +10,7 @@ DevOps is an approach that improves collaboration between development and operat
 
 ### Objectives of DevOps 
 
-* Faster software delivery
+* Faster software delivery 
 * Continuous integration and deployment
 * Improved collaboration
 * High availability and scalability
