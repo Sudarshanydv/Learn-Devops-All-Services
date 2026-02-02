@@ -2,7 +2,7 @@
      
 ## 1. Introduction to DevOps                 
             
-DevOps is a set of **practices, tools, and culture** that combines **Development (Dev)** and **Operations (Ops)** to deliver software faster, reliably, and efficiently. New one
+DevOps is a set of **practices, tools, and culture** that combines **Development (Dev)** and **Operations (Ops)** to deliver software faster, reliably, and efficiently...
            
 ### Definition                       
        
