@@ -47,7 +47,7 @@ CI is a process where developers frequently merge code changes into a shared rep
 
 ### Continuous Deployment (CD)
 
-CD automatically deploys tested code into production.
+CD automatically deploys tested code into production.....
 
 **Benefits:**
 
