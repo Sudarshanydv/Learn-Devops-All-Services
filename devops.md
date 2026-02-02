@@ -79,7 +79,7 @@ git checkout
 
 ---
 
-## 5. Build Tools
+## 5. Build Tools ...
 
 Build tools are used to automate the process of compiling source code.
 
