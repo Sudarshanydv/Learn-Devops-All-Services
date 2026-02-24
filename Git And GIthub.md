@@ -3,7 +3,7 @@ flowchart LR
     A[Host: PRENEO]
     B[Item: Error Detection - Timestamp]
     C[Trigger: Log Alert]
-    D[Trigger: Failure Alert] 
+    D[Trigger: Failure Alert]  
     E[Problem: Incident Created]
     F[Service: Infrastructure]
     G[Service: DLT]
