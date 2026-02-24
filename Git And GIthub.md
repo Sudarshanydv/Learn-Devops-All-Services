@@ -89,7 +89,7 @@ git init
 ## 2️⃣ Check Status
 
 ```bash
-git status
+git status 
 ```
 
 ## 3️⃣ Add Files
