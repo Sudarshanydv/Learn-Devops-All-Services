@@ -9,7 +9,7 @@ flowchart LR
     G[Service: DLT]
     H[Action: Incident Triggered]
     I[Media: Notification System]
-    J[Recipients: Admin/User]
+    J[Recipients: Admin/User] 
 
     A --> B
     B --> C
