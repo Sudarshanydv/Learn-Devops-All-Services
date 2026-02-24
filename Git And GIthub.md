@@ -5,7 +5,7 @@ flowchart LR
     C[Trigger: Log Alert]
     D[Trigger: Failure Alert]  
     E[Problem: Incident Created]
-    F[Service: Infrastructure] 
+    F[Service: Infrastructure]  
     G[Service: DLT]
     H[Action: Incident Triggered]
     I[Media: Notification System]
