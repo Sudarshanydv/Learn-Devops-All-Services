@@ -11,7 +11,7 @@ flowchart LR
     I[Media: Notification System]
     J[Recipients: Admin/User] 
 
-    A --> B
+    A --> B 
     B --> C
     B --> D
     C -.-> E
