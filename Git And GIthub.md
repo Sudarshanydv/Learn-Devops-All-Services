@@ -14,7 +14,7 @@ You will learn:
 - What is Git  
 - What is GitHub
 - Basic commands 
-- How to push code
+- How to push code 
 - Branching
 - Pull requests
 - Complete workflow
