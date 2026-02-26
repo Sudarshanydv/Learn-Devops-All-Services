@@ -49,7 +49,7 @@ CI is a process where developers frequently merge code changes into a shared rep
 
 CD automatically deploys tested code into production...
 
-**Benefits:**
+**Benefits:** 
 
 * Faster releases
 * Reduced manual errors
