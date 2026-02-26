@@ -30,7 +30,7 @@ The DevOps lifecycle consists of the following stages:
 6. **Deploy** – Deploying application to servers/cloud
 7. **Operate** – Monitoring and maintaining systems
 8. **Monitor** – Logging, performance monitoring, alerts
-
+ 
 ---
 
 ## 3. CI/CD (Continuous Integration & Continuous Deployment)
