@@ -13,7 +13,7 @@ DevOps is an approach that improves collaboration between development and operat
 * Faster software delivery    
 * Continuous integration and deployment       
 * Improved collaboration 
-* High availability and scalability
+* High availability and scalability 
 * Reduced failures and rollback time
 
 ---
