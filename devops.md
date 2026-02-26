@@ -28,7 +28,7 @@ The DevOps lifecycle consists of the following stages:
 4. **Test** – Automated and manual testing
 5. **Release** – Preparing application for deployment
 6. **Deploy** – Deploying application to servers/cloud
-7. **Operate** – Monitoring and maintaining systems
+7. **Operate** – Monitoring and maintaining systems 
 8. **Monitor** – Logging, performance monitoring, alerts
  
 ---
