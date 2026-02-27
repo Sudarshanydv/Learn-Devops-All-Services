@@ -10,7 +10,7 @@ Docker is a containerization platform used to build, ship, and run applications 
 - Lightweight compared to virtual machines 
 - Fast deployment and scaling
 - Easy to manage dependencies
-- Improves DevOps workflow
+- Improves DevOps workflow 
 
 ---
 
