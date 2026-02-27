@@ -58,7 +58,7 @@ Allows containers to communicate
 ---
 
 ## 🛠️ Docker Installation (Linux Example)
-
+ 
 ```bash
 sudo apt update
 sudo apt install docker.io -y
