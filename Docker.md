@@ -32,7 +32,7 @@ Docker is a containerization platform used to build, ship, and run applications 
 - Running instances of images
 - Lightweight and portable 
 
-### 5. Docker Registry
+### 5. Docker Registry 
 - Stores Docker images
 - Example: Docker Hub
 
