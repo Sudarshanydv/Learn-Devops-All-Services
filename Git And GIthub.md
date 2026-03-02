@@ -30,7 +30,7 @@ It helps developers to:
 - Track code changes 
 - Maintain project history
 - Work in teams
-- Create branches
+- Create branches 
 - Revert mistakes
 
 👉 Git works locally on your computer.
