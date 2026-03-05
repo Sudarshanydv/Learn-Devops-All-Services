@@ -17,7 +17,7 @@ DevOps is an approach that improves collaboration between development and operat
 * Reduced failures and rollback time
 
 ---
-
+ 
 ## 2. DevOps Lifecycle
 
 The DevOps lifecycle consists of the following stages:
