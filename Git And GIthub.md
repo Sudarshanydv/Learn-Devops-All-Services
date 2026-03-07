@@ -59,7 +59,7 @@ It allows you to:
 |------|--------|
 | Version Control Tool | Code Hosting Platform | 
 | Works locally | Works online |
-| Tracks changes | Stores repositories |
+| Tracks changes | Stores repositories | 
 | Command-line based | Web UI + Git support |
 
 --- 
