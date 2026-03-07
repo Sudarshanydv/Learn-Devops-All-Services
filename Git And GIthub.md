@@ -26,7 +26,7 @@ You will learn:
 **Git** is a Distributed Version Control System (DVCS).
 
 It helps developers to: 
-
+ 
 - Track code changes 
 - Maintain project history 
 - Work in teams 
