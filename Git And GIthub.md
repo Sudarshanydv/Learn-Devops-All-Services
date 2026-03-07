@@ -57,7 +57,7 @@ It allows you to:
 
 | Git | GitHub |
 |------|--------|
-| Version Control Tool | Code Hosting Platform |
+| Version Control Tool | Code Hosting Platform | 
 | Works locally | Works online |
 | Tracks changes | Stores repositories |
 | Command-line based | Web UI + Git support |
