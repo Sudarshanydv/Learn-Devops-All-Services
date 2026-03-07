@@ -49,7 +49,7 @@ It allows you to:
 - Manage issues & pull requests
 - Build your developer portfolio
 
-👉 GitHub works online.
+👉 GitHub works online. 
 
 ---
 
