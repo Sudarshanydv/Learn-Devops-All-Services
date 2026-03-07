@@ -62,7 +62,7 @@ It allows you to:
 | Tracks changes | Stores repositories |
 | Command-line based | Web UI + Git support |
 
----
+--- 
 
 # 💻 Install Git
 
