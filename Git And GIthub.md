@@ -34,7 +34,7 @@ It helps developers to:
 - Revert mistakes
 
 👉 Git works locally on your computer.
-
+ 
 --- 
 
 # 🌐 What is GitHub?
