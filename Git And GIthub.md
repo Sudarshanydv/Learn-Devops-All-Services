@@ -31,7 +31,7 @@ It helps developers to:
 - Maintain project history 
 - Work in teams 
 - Create branches   
-- Revert mistakes
+- Revert mistakes 
 
 👉 Git works locally on your computer.  
  
