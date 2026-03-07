@@ -70,7 +70,7 @@ Download Git:
 
 https://git-scm.com/
 
-Check installation:
+Check installation: 
 
 ```bash
 git --version
