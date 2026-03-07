@@ -28,7 +28,7 @@ You will learn:
 It helps developers to: 
 
 - Track code changes 
-- Maintain project history
+- Maintain project history 
 - Work in teams
 - Create branches  
 - Revert mistakes
