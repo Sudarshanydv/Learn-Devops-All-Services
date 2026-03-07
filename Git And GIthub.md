@@ -43,7 +43,7 @@ It helps developers to:
 
 It allows you to:
 
-- Store code online
+- Store code online 
 - Collaborate with others 
 - Contribute to open-source  
 - Manage issues & pull requests
