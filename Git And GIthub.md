@@ -45,7 +45,7 @@ It allows you to:
 
 - Store code online  
 - Collaborate with others 
-- Contribute to open-source  
+- Contribute to open-source   
 - Manage issues & pull requests
 - Build your developer portfolio
 
