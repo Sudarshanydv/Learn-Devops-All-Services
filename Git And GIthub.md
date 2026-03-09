@@ -69,7 +69,7 @@ It allows you to:
 Download Git:
 
 https://git-scm.com/
-
+ 
 Check installation: 
 
 ```bash
