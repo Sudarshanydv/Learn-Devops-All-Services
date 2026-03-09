@@ -35,7 +35,7 @@ It helps developers to:
 
 👉 Git works locally on your computer.  
  
---- 
+---  
 
 # 🌐 What is GitHub?
 
