@@ -63,7 +63,7 @@ It allows you to:
 | Command-line based | Web UI + Git support |
 
 --- 
-
+ 
 # 💻 Install Git
 
 Download Git:
