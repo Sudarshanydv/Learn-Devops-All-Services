@@ -38,7 +38,7 @@ It helps developers to:
 ---  
  
 # 🌐 What is GitHub?
-
+ 
 **GitHub**  is a cloud-based platform that hosts Git repositories.
 
 It allows you to: 
