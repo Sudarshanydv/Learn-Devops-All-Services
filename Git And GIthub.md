@@ -33,7 +33,7 @@ It helps developers to:
 - Create branches   
 - Revert mistakes 
 
-👉 Git works locally on your computer.  
+👉 Git works locally on your computer.   
  
 ---  
  
