@@ -41,7 +41,7 @@ Docker is a containerization platform used to build, ship, and run applications 
 ## ⚙️ Key Docker Concepts
 
 ### 🔹 Image
-Blueprint of application
+Blueprint of application 
 
 ### 🔹 Container
 Running instance of image
