@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 Docker is a containerization platform used to build, ship, and run applications in isolated environments called containers. It helps developers package applications with all dependencies, ensuring consistency across different environments.
- 
+  
 ---  
    
 ## 🎯 Why Docker? 
