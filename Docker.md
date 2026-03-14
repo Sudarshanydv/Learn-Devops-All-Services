@@ -16,7 +16,7 @@ Docker is a containerization platform used to build, ship, and run applications 
 
 ## 🧱 Docker Architecture 
 
-### 1. Docker Client 
+### 1. Docker Client  
 - Command line interface (CLI)
 - Used to interact with Docker 
 
