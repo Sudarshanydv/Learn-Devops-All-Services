@@ -18,7 +18,7 @@ Docker is a containerization platform used to build, ship, and run applications 
 
 ### 1. Docker Client
 - Command line interface (CLI)
-- Used to interact with Docker
+- Used to interact with Docker 
 
 ### 2. Docker Daemon
 - Runs in background 
