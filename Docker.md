@@ -27,7 +27,7 @@ Docker is a containerization platform used to build, ship, and run applications 
 ### 3. Docker Images
 - Read-only templates used to create containers
 - Example: Ubuntu, Nginx
-
+ 
 ### 4. Docker Containers
 - Running instances of images
 - Lightweight and portable 
