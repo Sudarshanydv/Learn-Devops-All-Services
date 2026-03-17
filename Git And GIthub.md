@@ -5,7 +5,7 @@
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-green)
 
 ---  
-        
+         
 # 📌 Introduction      
  
 This guide explains **Git & GitHub** in a simple and practical way.
