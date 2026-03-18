@@ -22,7 +22,7 @@ Docker is a containerization platform used to build, ship, and run applications 
  
 ### 2. Docker Daemon 
 - Runs in background 
-- Manages containers, images, networks 
+- Manages containers, images, networks  
   
 ### 3. Docker Images
 - Read-only templates used to create containers
