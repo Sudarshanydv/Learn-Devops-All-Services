@@ -85,7 +85,7 @@ git --version
 
 ```bash
 git init
-```
+``` 
 
 ## 2️⃣ Check Status
 
