@@ -111,7 +111,7 @@ git commit -m "Initial commit"
 
 ## Step 1: Create Repository
 
-1. Go to https://github.com
+1. Go to https://github.com 
 2. Click **New Repository**
 3. Enter repository name
 4. Click **Create**
