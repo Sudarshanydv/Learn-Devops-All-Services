@@ -55,7 +55,7 @@ It allows you to:
 ---
 
 # 🔥 Git vs GitHub 
-
+ 
 | Git | GitHub |
 |------|--------|
 | Version Control Tool | Code Hosting Platform | 
