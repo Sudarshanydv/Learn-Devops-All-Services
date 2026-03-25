@@ -171,7 +171,7 @@ git pull origin main
 
 1. Fork repository
 2. Clone fork
-3. Create new branch
+3. Create new branch 
 4. Make changes
 5. Add & commit
 6. Push branch
