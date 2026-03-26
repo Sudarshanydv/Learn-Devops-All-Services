@@ -42,7 +42,7 @@ Learn 1 concept daily and apply it ✅
 Your DevOps journey isn’t a sprint 🏃‍♂️
 It’s a system you build, just like the pipelines you create.
 
-🔥 Learn daily. Build daily. Improve daily......
+🔥 Learn daily. Build daily. Improve daily.......
  
 #DevOps #AWS #CloudComputing #LearningJourney #Automation #TechSkills #ContinuousLearning
 
