@@ -37,7 +37,7 @@ Docker is a containerization platform used to build, ship, and run applications 
 - Example: Docker Hub
 
 ---
-
+ 
 ## ⚙️ Key Docker Concepts
 
 ### 🔹 Image
