@@ -34,7 +34,7 @@ Docker is a containerization platform used to build, ship, and run applications 
  
 ### 5. Docker Registry   
 - Stores Docker images
-- Example: Docker Hub
+- Example: Docker Hub 
 
 ---
  
