@@ -22,7 +22,7 @@ You will learn:
  
 ---
 
-# 🛠 What is Git?
+# 🛠 What is Git? 
  
 **Git** is a Distributed Version Control System (DVCS).
  
