@@ -54,7 +54,7 @@ It allows you to:
 
 ---
 
-# 🔥 Git vs GitHub 
+# 🔥 Git vs GitHub  
  
 | Git | GitHub |
 |------|--------|
