@@ -17,7 +17,7 @@ You will learn:
 - Basic commands     
 - How to push code   
 - Branching
-- Pull requests
+- Pull requests 
 - Complete workflow
  
 ---
