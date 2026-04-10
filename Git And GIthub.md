@@ -43,7 +43,7 @@ It helps developers to:
 **GitHub**  is a cloud-based platform that hosts Git repositories.
 
 It allows you to: 
-
+ 
 - Store code online  
 - Collaborate with others 
 - Contribute to open-source   
