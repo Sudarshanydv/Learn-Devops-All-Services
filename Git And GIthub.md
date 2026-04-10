@@ -7,7 +7,7 @@
 ---  
 
           
-# 📌 Introduction      
+# 📌 Introduction       
  
 This guide explains **Git & GitHub** in a simple and practical way.
  
