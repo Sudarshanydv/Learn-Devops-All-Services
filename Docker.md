@@ -2,6 +2,9 @@
  
 ## 📌 Introduction
 Docker is a containerization platform used to build, ship, and run applications in isolated environments called containers. It helps developers package applications with all dependencies, ensuring consistency across different environments...
+
+<img width="1440" height="1122" alt="image" src="https://github.com/user-attachments/assets/8e7aa3bd-1eb2-46cd-9f9b-3fd825bb1859" />
+
   
 ---     
       
@@ -200,7 +203,6 @@ docker-compose up -d
 - Microservices architecture
 - Cloud deployments
 - Dev/Test environments
-
 ---
 
 ## 🧾 Conclusion
