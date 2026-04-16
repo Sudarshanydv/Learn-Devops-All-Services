@@ -32,7 +32,7 @@ The DevOps lifecycle consists of the following stages:
 8. **Monitor** – Logging, performance monitoring, alerts
  
 ---
-
+ 
 ## 3. CI/CD (Continuous Integration & Continuous Deployment)
 
 ### Continuous Integration (CI)
