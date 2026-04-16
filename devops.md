@@ -38,7 +38,7 @@ The DevOps lifecycle consists of the following stages:
 ### Continuous Integration (CI)
 
 CI is a process where developers frequently merge code changes into a shared repository, followed by automated builds and tests.
-
+ 
 **Benefits:**
 
 * Early bug detection
