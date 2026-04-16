@@ -33,7 +33,7 @@ The DevOps lifecycle consists of the following stages:
  
 ---
  
-## 3. CI/CD (Continuous Integration & Continuous Deployment)
+## 3. CI/CD (Continuous Integration & Continuous Deployment) 
  
 ### Continuous Integration (CI)
 
