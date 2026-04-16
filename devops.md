@@ -21,7 +21,7 @@ DevOps is an approach that improves collaboration between development and operat
 ## 2. DevOps Lifecycle
 
 The DevOps lifecycle consists of the following stages:
-
+ 
 1. **Plan** – Requirement gathering and planning 
 2. **Code** – Writing application code
 3. **Build** – Compiling and building artifacts
