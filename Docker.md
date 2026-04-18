@@ -5,7 +5,7 @@ Docker is a containerization platform used to build, ship, and run applications 
 
 <img width="1440" height="1122" alt="image" src="https://github.com/user-attachments/assets/8e7aa3bd-1eb2-46cd-9f9b-3fd825bb1859" />
 
-   
+    
 ---     
        
 ## 🎯 Why Docker?      
