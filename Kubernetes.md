@@ -38,7 +38,7 @@ EOF
 
 sysctl --system
 setenforce 0
-
+ 
 7] yum install -y kubelet kubeadm kubectl --disableexcludes=kubernetes
 8] systemctl enable kubelet && systemctl start kubelet
 9] kubeadm init --ignore-preflight-errors=all
