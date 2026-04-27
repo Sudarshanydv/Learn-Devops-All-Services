@@ -9,7 +9,7 @@ LAUNCH INSTANCE - T2.SMALL AND SELECT AMI2 WHILE SELECT OS AMAZON LINUX
 
 Master Node SG - Add first before run command 
 6443 → API Server (MOST IMPORTANT)
-2379-2380 → etcd
+2379-2380 → etcd 
 10250 → kubelet
 10259 → scheduler
 10257 → controller-manager
