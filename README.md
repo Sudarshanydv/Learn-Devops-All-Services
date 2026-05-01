@@ -26,7 +26,7 @@ You need a *daily learning system* 📅
 → Automate. Test. Deploy. Repeat.
 
 🔹 Monitor & optimize 📊
-→ CloudWatch 👀 | Prometheus 📈 | Grafana 📉
+→ CloudWatch 👀 | Prometheus 📈 | Grafana 📉 
 
 💥 The secret?
 Consistency over intensity.
