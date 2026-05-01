@@ -11,7 +11,7 @@ You don’t need to learn everything in one go.
 You need a *daily learning system* 📅 
 
 🔹 Start with the fundamentals 🧱
-→ Linux 🐧 | Networking 🌐 | Git 🔧
+→ Linux 🐧 | Networking 🌐 | Git 🔧 
 
 🔹 Move to core DevOps tools ⚙️
 → Docker 🐳 | Kubernetes ☸️ | Jenkins 🔄
