@@ -7,7 +7,7 @@
 In the world of DevOps ⚙️ and AWS ☁️, it’s easy to feel overwhelmed by the number of tools and services out there.
 
 But here’s the truth 👇
-You don’t need to learn everything in one go.
+You don’t need to learn everything in one go. 
 You need a *daily learning system* 📅 
 
 🔹 Start with the fundamentals 🧱
