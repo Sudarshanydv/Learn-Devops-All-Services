@@ -1,7 +1,7 @@
 KUBERNETES INSTALLATION (K8)
 Saturday 15-02-2025
 OLD COMMNADS 
-Qubernetes Setup Step by Step -
+Qubernetes Setup Step by Step - 
 
 K8 SETUP 
 *********
