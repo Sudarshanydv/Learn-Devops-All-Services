@@ -19,7 +19,7 @@ You will learn:
 - Branching
 - Pull requests 
 - Complete workflow
- 
+  
 ---
 
 # 🛠 What is Git? 
