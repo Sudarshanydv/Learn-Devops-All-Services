@@ -11,7 +11,7 @@
    
 This guide explains **Git & GitHub** in a simple and practical way.
    
-You will learn:        
+You will learn:         
 - What is Git      
 - What is GitHub     
 - Basic commands      
