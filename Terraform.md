@@ -7,7 +7,7 @@ Terraform is an Infrastructure as Code (IaC) tool that allows DevOps engineers t
 Instead of manually creating AWS resources from the AWS Console, we can define infrastructure as code and manage it through Git.
 
 Terraform helps us build infrastructure that is:
-
+ 
 - Automated
 - Repeatable
 - Version controlled
